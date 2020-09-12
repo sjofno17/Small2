@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "mQt1NwVUDp9FZVxNgQg3o/W70Grty+8rEXqQQwZDFUrsyvkPdG6TZc0CGSAN5PDoe1tVnkOJoCC+SV027aF7rw==",
+  "success": true,
+  "projectFilePath": "/Users/arnarleifs/Desktop/template/Exterminator.Models/Exterminator.Models.csproj",
+  "expectedPackageFiles": [
+    "/Users/arnarleifs/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/arnarleifs/.nuget/packages/newtonsoft.json/11.0.2/newtonsoft.json.11.0.2.nupkg.sha512",
+    "/Users/arnarleifs/.nuget/packages/system.componentmodel.annotations/4.5.0/system.componentmodel.annotations.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+/Users/arnarleifs/Desktop/template/Exterminator.Repositories/bin/Debug/netstandard2.0/Exterminator.Repositories.deps.json
+/Users/arnarleifs/Desktop/template/Exterminator.Repositories/bin/Debug/netstandard2.0/Exterminator.Repositories.dll
+/Users/arnarleifs/Desktop/template/Exterminator.Repositories/bin/Debug/netstandard2.0/Exterminator.Repositories.pdb
+/Users/arnarleifs/Desktop/template/Exterminator.Repositories/bin/Debug/netstandard2.0/Exterminator.Models.dll
+/Users/arnarleifs/Desktop/template/Exterminator.Repositories/bin/Debug/netstandard2.0/Exterminator.Models.pdb
+/Users/arnarleifs/Desktop/template/Exterminator.Repositories/obj/Debug/netstandard2.0/Exterminator.Repositories.csprojAssemblyReference.cache
+/Users/arnarleifs/Desktop/template/Exterminator.Repositories/obj/Debug/netstandard2.0/Exterminator.Repositories.AssemblyInfoInputs.cache
+/Users/arnarleifs/Desktop/template/Exterminator.Repositories/obj/Debug/netstandard2.0/Exterminator.Repositories.AssemblyInfo.cs
+/Users/arnarleifs/Desktop/template/Exterminator.Repositories/obj/Debug/netstandard2.0/Exterminator.Repositories.csproj.CoreCompileInputs.cache
+/Users/arnarleifs/Desktop/template/Exterminator.Repositories/obj/Debug/netstandard2.0/Exterminator.Repositories.csproj.CopyComplete
+/Users/arnarleifs/Desktop/template/Exterminator.Repositories/obj/Debug/netstandard2.0/Exterminator.Repositories.dll
+/Users/arnarleifs/Desktop/template/Exterminator.Repositories/obj/Debug/netstandard2.0/Exterminator.Repositories.pdb
