@@ -1,28 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "/Users/arnarleifs/Desktop/template/Exterminator.Services/Exterminator.Services.csproj": {}
+    "C:\\Users\\sjofnoskars\\Documents\\VEFÞ\\Small2\\Exterminator.Services\\Exterminator.Services.csproj": {}
   },
   "projects": {
-    "/Users/arnarleifs/Desktop/template/Exterminator.Models/Exterminator.Models.csproj": {
+    "C:\\Users\\sjofnoskars\\Documents\\VEFÞ\\Small2\\Exterminator.Models\\Exterminator.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/arnarleifs/Desktop/template/Exterminator.Models/Exterminator.Models.csproj",
+        "projectUniqueName": "C:\\Users\\sjofnoskars\\Documents\\VEFÞ\\Small2\\Exterminator.Models\\Exterminator.Models.csproj",
         "projectName": "Exterminator.Models",
-        "projectPath": "/Users/arnarleifs/Desktop/template/Exterminator.Models/Exterminator.Models.csproj",
-        "packagesPath": "/Users/arnarleifs/.nuget/packages/",
-        "outputPath": "/Users/arnarleifs/Desktop/template/Exterminator.Models/obj/",
+        "projectPath": "C:\\Users\\sjofnoskars\\Documents\\VEFÞ\\Small2\\Exterminator.Models\\Exterminator.Models.csproj",
+        "packagesPath": "C:\\Users\\sjofnoskars\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sjofnoskars\\Documents\\VEFÞ\\Small2\\Exterminator.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/arnarleifs/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\sjofnoskars\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -64,36 +66,38 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.401/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/arnarleifs/Desktop/template/Exterminator.Repositories/Exterminator.Repositories.csproj": {
+    "C:\\Users\\sjofnoskars\\Documents\\VEFÞ\\Small2\\Exterminator.Repositories\\Exterminator.Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/arnarleifs/Desktop/template/Exterminator.Repositories/Exterminator.Repositories.csproj",
+        "projectUniqueName": "C:\\Users\\sjofnoskars\\Documents\\VEFÞ\\Small2\\Exterminator.Repositories\\Exterminator.Repositories.csproj",
         "projectName": "Exterminator.Repositories",
-        "projectPath": "/Users/arnarleifs/Desktop/template/Exterminator.Repositories/Exterminator.Repositories.csproj",
-        "packagesPath": "/Users/arnarleifs/.nuget/packages/",
-        "outputPath": "/Users/arnarleifs/Desktop/template/Exterminator.Repositories/obj/",
+        "projectPath": "C:\\Users\\sjofnoskars\\Documents\\VEFÞ\\Small2\\Exterminator.Repositories\\Exterminator.Repositories.csproj",
+        "packagesPath": "C:\\Users\\sjofnoskars\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sjofnoskars\\Documents\\VEFÞ\\Small2\\Exterminator.Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/arnarleifs/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\sjofnoskars\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "/Users/arnarleifs/Desktop/template/Exterminator.Models/Exterminator.Models.csproj": {
-                "projectPath": "/Users/arnarleifs/Desktop/template/Exterminator.Models/Exterminator.Models.csproj"
+              "C:\\Users\\sjofnoskars\\Documents\\VEFÞ\\Small2\\Exterminator.Models\\Exterminator.Models.csproj": {
+                "projectPath": "C:\\Users\\sjofnoskars\\Documents\\VEFÞ\\Small2\\Exterminator.Models\\Exterminator.Models.csproj"
               }
             }
           }
@@ -132,39 +136,41 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.401/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/arnarleifs/Desktop/template/Exterminator.Services/Exterminator.Services.csproj": {
+    "C:\\Users\\sjofnoskars\\Documents\\VEFÞ\\Small2\\Exterminator.Services\\Exterminator.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/arnarleifs/Desktop/template/Exterminator.Services/Exterminator.Services.csproj",
+        "projectUniqueName": "C:\\Users\\sjofnoskars\\Documents\\VEFÞ\\Small2\\Exterminator.Services\\Exterminator.Services.csproj",
         "projectName": "Exterminator.Services",
-        "projectPath": "/Users/arnarleifs/Desktop/template/Exterminator.Services/Exterminator.Services.csproj",
-        "packagesPath": "/Users/arnarleifs/.nuget/packages/",
-        "outputPath": "/Users/arnarleifs/Desktop/template/Exterminator.Services/obj/",
+        "projectPath": "C:\\Users\\sjofnoskars\\Documents\\VEFÞ\\Small2\\Exterminator.Services\\Exterminator.Services.csproj",
+        "packagesPath": "C:\\Users\\sjofnoskars\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sjofnoskars\\Documents\\VEFÞ\\Small2\\Exterminator.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/arnarleifs/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\sjofnoskars\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "/Users/arnarleifs/Desktop/template/Exterminator.Models/Exterminator.Models.csproj": {
-                "projectPath": "/Users/arnarleifs/Desktop/template/Exterminator.Models/Exterminator.Models.csproj"
+              "C:\\Users\\sjofnoskars\\Documents\\VEFÞ\\Small2\\Exterminator.Models\\Exterminator.Models.csproj": {
+                "projectPath": "C:\\Users\\sjofnoskars\\Documents\\VEFÞ\\Small2\\Exterminator.Models\\Exterminator.Models.csproj"
               },
-              "/Users/arnarleifs/Desktop/template/Exterminator.Repositories/Exterminator.Repositories.csproj": {
-                "projectPath": "/Users/arnarleifs/Desktop/template/Exterminator.Repositories/Exterminator.Repositories.csproj"
+              "C:\\Users\\sjofnoskars\\Documents\\VEFÞ\\Small2\\Exterminator.Repositories\\Exterminator.Repositories.csproj": {
+                "projectPath": "C:\\Users\\sjofnoskars\\Documents\\VEFÞ\\Small2\\Exterminator.Repositories\\Exterminator.Repositories.csproj"
               }
             }
           }
@@ -195,7 +201,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.401/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

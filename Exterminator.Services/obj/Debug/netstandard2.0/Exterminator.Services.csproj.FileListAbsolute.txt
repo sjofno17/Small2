@@ -12,3 +12,17 @@
 /Users/arnarleifs/Desktop/template/Exterminator.Services/obj/Debug/netstandard2.0/Exterminator.Services.csproj.CopyComplete
 /Users/arnarleifs/Desktop/template/Exterminator.Services/obj/Debug/netstandard2.0/Exterminator.Services.dll
 /Users/arnarleifs/Desktop/template/Exterminator.Services/obj/Debug/netstandard2.0/Exterminator.Services.pdb
+C:\Users\sjofnoskars\Documents\VEFÞ\Small2\Exterminator.Services\bin\Debug\netstandard2.0\Exterminator.Services.deps.json
+C:\Users\sjofnoskars\Documents\VEFÞ\Small2\Exterminator.Services\bin\Debug\netstandard2.0\Exterminator.Services.dll
+C:\Users\sjofnoskars\Documents\VEFÞ\Small2\Exterminator.Services\bin\Debug\netstandard2.0\Exterminator.Services.pdb
+C:\Users\sjofnoskars\Documents\VEFÞ\Small2\Exterminator.Services\bin\Debug\netstandard2.0\Exterminator.Models.dll
+C:\Users\sjofnoskars\Documents\VEFÞ\Small2\Exterminator.Services\bin\Debug\netstandard2.0\Exterminator.Repositories.dll
+C:\Users\sjofnoskars\Documents\VEFÞ\Small2\Exterminator.Services\bin\Debug\netstandard2.0\Exterminator.Models.pdb
+C:\Users\sjofnoskars\Documents\VEFÞ\Small2\Exterminator.Services\bin\Debug\netstandard2.0\Exterminator.Repositories.pdb
+C:\Users\sjofnoskars\Documents\VEFÞ\Small2\Exterminator.Services\obj\Debug\netstandard2.0\Exterminator.Services.csprojAssemblyReference.cache
+C:\Users\sjofnoskars\Documents\VEFÞ\Small2\Exterminator.Services\obj\Debug\netstandard2.0\Exterminator.Services.AssemblyInfoInputs.cache
+C:\Users\sjofnoskars\Documents\VEFÞ\Small2\Exterminator.Services\obj\Debug\netstandard2.0\Exterminator.Services.AssemblyInfo.cs
+C:\Users\sjofnoskars\Documents\VEFÞ\Small2\Exterminator.Services\obj\Debug\netstandard2.0\Exterminator.Services.csproj.CoreCompileInputs.cache
+C:\Users\sjofnoskars\Documents\VEFÞ\Small2\Exterminator.Services\obj\Debug\netstandard2.0\Exterminator.Services.csproj.CopyComplete
+C:\Users\sjofnoskars\Documents\VEFÞ\Small2\Exterminator.Services\obj\Debug\netstandard2.0\Exterminator.Services.dll
+C:\Users\sjofnoskars\Documents\VEFÞ\Small2\Exterminator.Services\obj\Debug\netstandard2.0\Exterminator.Services.pdb

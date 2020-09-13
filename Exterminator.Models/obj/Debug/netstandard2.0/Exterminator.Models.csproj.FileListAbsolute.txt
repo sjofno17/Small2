@@ -7,3 +7,12 @@
 /Users/arnarleifs/Desktop/template/Exterminator.Models/bin/Debug/netstandard2.0/Exterminator.Models.pdb
 /Users/arnarleifs/Desktop/template/Exterminator.Models/obj/Debug/netstandard2.0/Exterminator.Models.dll
 /Users/arnarleifs/Desktop/template/Exterminator.Models/obj/Debug/netstandard2.0/Exterminator.Models.pdb
+C:\Users\sjofnoskars\Documents\VEFÞ\Small2\Exterminator.Models\bin\Debug\netstandard2.0\Exterminator.Models.deps.json
+C:\Users\sjofnoskars\Documents\VEFÞ\Small2\Exterminator.Models\bin\Debug\netstandard2.0\Exterminator.Models.dll
+C:\Users\sjofnoskars\Documents\VEFÞ\Small2\Exterminator.Models\bin\Debug\netstandard2.0\Exterminator.Models.pdb
+C:\Users\sjofnoskars\Documents\VEFÞ\Small2\Exterminator.Models\obj\Debug\netstandard2.0\Exterminator.Models.csprojAssemblyReference.cache
+C:\Users\sjofnoskars\Documents\VEFÞ\Small2\Exterminator.Models\obj\Debug\netstandard2.0\Exterminator.Models.AssemblyInfoInputs.cache
+C:\Users\sjofnoskars\Documents\VEFÞ\Small2\Exterminator.Models\obj\Debug\netstandard2.0\Exterminator.Models.AssemblyInfo.cs
+C:\Users\sjofnoskars\Documents\VEFÞ\Small2\Exterminator.Models\obj\Debug\netstandard2.0\Exterminator.Models.csproj.CoreCompileInputs.cache
+C:\Users\sjofnoskars\Documents\VEFÞ\Small2\Exterminator.Models\obj\Debug\netstandard2.0\Exterminator.Models.dll
+C:\Users\sjofnoskars\Documents\VEFÞ\Small2\Exterminator.Models\obj\Debug\netstandard2.0\Exterminator.Models.pdb

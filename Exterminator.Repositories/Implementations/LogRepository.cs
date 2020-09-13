@@ -25,5 +25,12 @@ namespace Exterminator.Repositories.Implementations
         }
 
         // TODO: Should contain a method which retrieves all logs (LogDto) ordered by timestamp (descending)
+
+        public List<LogDto> GetAllLogs()
+        {
+            var allLogs = new List<LogDto>();
+
+            return allLogs.OrderBy(o => o.Timestamp).ToList();
+        }
     }
 }

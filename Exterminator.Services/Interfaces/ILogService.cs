@@ -8,5 +8,6 @@ namespace Exterminator.Services.Interfaces
     {
          void LogToDatabase(ExceptionModel exception);
          // TODO: Should contain a method which retrieves all logs (LogDto) ordered by timestamp (descending)
+          List<LogDto> GetAllLogs();
     }
 }

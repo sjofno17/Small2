@@ -48,11 +48,12 @@
   },
   "libraries": {
     "Microsoft.NETCore.Platforms/1.1.0": {
-      "sha512": "mDfJqr/IxKEAL+pex+Luk51dSHySshygWOBMXDE0i6K3uev7P+NdBzPv0iofYwjOf9oHtbuCEkj61uMYyi4VsA==",
+      "sha512": "kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
       "type": "package",
       "path": "microsoft.netcore.platforms/1.1.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/netstandard1.0/_._",
@@ -316,28 +317,30 @@
     ]
   },
   "packageFolders": {
-    "/Users/arnarleifs/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\sjofnoskars\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/arnarleifs/Desktop/template/Exterminator.Models/Exterminator.Models.csproj",
+      "projectUniqueName": "C:\\Users\\sjofnoskars\\Documents\\VEFÞ\\Small2\\Exterminator.Models\\Exterminator.Models.csproj",
       "projectName": "Exterminator.Models",
-      "projectPath": "/Users/arnarleifs/Desktop/template/Exterminator.Models/Exterminator.Models.csproj",
-      "packagesPath": "/Users/arnarleifs/.nuget/packages/",
-      "outputPath": "/Users/arnarleifs/Desktop/template/Exterminator.Models/obj/",
+      "projectPath": "C:\\Users\\sjofnoskars\\Documents\\VEFÞ\\Small2\\Exterminator.Models\\Exterminator.Models.csproj",
+      "packagesPath": "C:\\Users\\sjofnoskars\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\sjofnoskars\\Documents\\VEFÞ\\Small2\\Exterminator.Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/arnarleifs/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\sjofnoskars\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -379,7 +382,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.401/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

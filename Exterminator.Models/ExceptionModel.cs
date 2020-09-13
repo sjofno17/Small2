@@ -10,4 +10,4 @@ namespace Exterminator.Models
         public string StackTrace { get; set; }
         public override string ToString() => JsonConvert.SerializeObject(this);
     }
-}
+}   

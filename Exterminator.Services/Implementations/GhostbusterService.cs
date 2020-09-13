@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using Exterminator.Models.Dtos;
 using Exterminator.Models.InputModels;
+using Exterminator.Models.Exceptions;
 using Exterminator.Repositories.Interfaces;
 using Exterminator.Services.Interfaces;
 
@@ -26,7 +27,7 @@ namespace Exterminator.Services.Implementations
             if (!_ghostbusterRepository.DoesExist(id))
             {
                 // TODO: Implement and uncomment
-                //throw new ResourceNotFoundException($"Ghostbuster with id {id} was not found."); 
+                throw new ResourceNotFoundException($"Ghostbuster with id {id} was not found."); 
             }
             return _ghostbusterRepository.GetGhostbusterById(id);
         }

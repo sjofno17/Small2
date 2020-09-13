@@ -10,3 +10,15 @@
 /Users/arnarleifs/Desktop/template/Exterminator.Repositories/obj/Debug/netstandard2.0/Exterminator.Repositories.csproj.CopyComplete
 /Users/arnarleifs/Desktop/template/Exterminator.Repositories/obj/Debug/netstandard2.0/Exterminator.Repositories.dll
 /Users/arnarleifs/Desktop/template/Exterminator.Repositories/obj/Debug/netstandard2.0/Exterminator.Repositories.pdb
+C:\Users\sjofnoskars\Documents\VEFÞ\Small2\Exterminator.Repositories\bin\Debug\netstandard2.0\Exterminator.Repositories.deps.json
+C:\Users\sjofnoskars\Documents\VEFÞ\Small2\Exterminator.Repositories\bin\Debug\netstandard2.0\Exterminator.Repositories.dll
+C:\Users\sjofnoskars\Documents\VEFÞ\Small2\Exterminator.Repositories\bin\Debug\netstandard2.0\Exterminator.Repositories.pdb
+C:\Users\sjofnoskars\Documents\VEFÞ\Small2\Exterminator.Repositories\bin\Debug\netstandard2.0\Exterminator.Models.dll
+C:\Users\sjofnoskars\Documents\VEFÞ\Small2\Exterminator.Repositories\bin\Debug\netstandard2.0\Exterminator.Models.pdb
+C:\Users\sjofnoskars\Documents\VEFÞ\Small2\Exterminator.Repositories\obj\Debug\netstandard2.0\Exterminator.Repositories.csprojAssemblyReference.cache
+C:\Users\sjofnoskars\Documents\VEFÞ\Small2\Exterminator.Repositories\obj\Debug\netstandard2.0\Exterminator.Repositories.AssemblyInfoInputs.cache
+C:\Users\sjofnoskars\Documents\VEFÞ\Small2\Exterminator.Repositories\obj\Debug\netstandard2.0\Exterminator.Repositories.AssemblyInfo.cs
+C:\Users\sjofnoskars\Documents\VEFÞ\Small2\Exterminator.Repositories\obj\Debug\netstandard2.0\Exterminator.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\sjofnoskars\Documents\VEFÞ\Small2\Exterminator.Repositories\obj\Debug\netstandard2.0\Exterminator.Repositories.csproj.CopyComplete
+C:\Users\sjofnoskars\Documents\VEFÞ\Small2\Exterminator.Repositories\obj\Debug\netstandard2.0\Exterminator.Repositories.dll
+C:\Users\sjofnoskars\Documents\VEFÞ\Small2\Exterminator.Repositories\obj\Debug\netstandard2.0\Exterminator.Repositories.pdb
